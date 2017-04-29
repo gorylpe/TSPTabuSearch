@@ -3,11 +3,13 @@
 # Introduction
 
 Travelling Salesman Problem in C with Tabu Search.
-Project created for Metaheuristic algorithms course.
+Project created for Metaheuristic Algorithms course.
+
+Computer Science, WPPT, Politechnika Wrocławska.
 
 # Efficiency
 
-Output differs from optimum for about **4%** for average case.
+Output differs from optimum for about **4%** for average case!
 Program works for about **n/20** seconds where n is the size of data (number of cities).
 
 # Implementation details
